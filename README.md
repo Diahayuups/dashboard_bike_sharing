@@ -67,7 +67,7 @@ Kelas: Belajar Fundamental Analisis Data (BFDA)
 ---
 ## Disclaimer Penggunaan AI
 
-Dalam pengerjaan proyek ini, penulis menggunakan bantuan alat berbasis kecerdasan buatan (AI) sebagai pendukung dalam proses pembelajaran, seperti membantu memahami konsep analisis data, memberikan referensi penulisan kode, serta membantu dalam penyusunan dokumentasi.
+Dalam pengerjaan proyek ini, penulis menggunakan bantuan alat berbasis kecerdasan buatan (AI) ChatGPT sebagai pendukung dalam proses pembelajaran, seperti membantu memahami konsep analisis data, memberikan referensi penulisan kode, serta membantu dalam penyusunan dokumentasi.
 
 Seluruh proses analisis data, pemahaman terhadap dataset, pemilihan metode analisis, serta interpretasi hasil dilakukan secara mandiri oleh penulis. Penggunaan AI hanya digunakan sebagai alat bantu untuk meningkatkan efisiensi dalam proses belajar dan tidak digunakan untuk melakukan plagiarisme atau menyalin karya pihak lain.
 
