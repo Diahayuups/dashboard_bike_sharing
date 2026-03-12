@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Load dataset
-main_df = pd.read_csv("main_data.csv")
+main_df = pd.read_csv("dashboard/main_data.csv")
 
 main_df["dteday"] = pd.to_datetime(main_df["dteday"])
 
@@ -18,7 +18,7 @@ main_df["dteday"] = pd.to_datetime(main_df["dteday"])
 with st.sidebar:
     st.header("Submission Proyek BFDA")
 
-    st.image("foto.jpg")
+    st.image("dashboard/foto.jpg")
 
     st.markdown("## Profil Cohort")
 
@@ -169,5 +169,6 @@ ax.set_xlabel("Rental Category")
 ax.set_ylabel("Number of Records")
 
 st.pyplot(fig)
+
 
 st.caption("© 2026 - Diah Ayu Puspasari | Dicoding Submission")
